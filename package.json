@@ -1,0 +1,9 @@
+{
+  "name": "projeto-integrador",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "qrcode-terminal": "latest",
+    "whatsapp-web.js": "latest"
+  }
+}
